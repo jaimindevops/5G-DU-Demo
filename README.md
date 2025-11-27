@@ -1,6 +1,6 @@
 # 5G DU Demo
 
-A lightweight Python project simulating a **5G Distributed Unit (DU), for demonstration purposes.  
+A lightweight Python project simulating a 5G Distributed Unit (DU), for demonstration purposes.  
 This project demonstrates networking and containerization skills using docker, python & flask.
 ---
 
