@@ -1,6 +1,6 @@
 5G DU Demo
 
-This repository contains a lightweight demo application simulating a 5G Distributed Unit (DU)** environment.It is built with Python (Flask) and containerized using Docker.  
+This repository contains a lightweight demo application simulating a 5G Distributed Unit (DU) environment.It is built with Python (Flask) and containerized using Docker.  
 The project is intended to showcase hands-on experience with cloud-native deployment, Docker, and network-oriented applications for job applications.
 
 ---
@@ -50,8 +50,8 @@ Pull from Docker Hub
  The image is available on Docker Hub:
 
 ```bash
-docker pull jaimin180692/du-demo:latest
-docker run -p 8080:8080 jaimin180692/du-demo
+docker pull /du-demo:latest
+docker run -p 8080:8080 /du-demo
 ```
 
 ---
